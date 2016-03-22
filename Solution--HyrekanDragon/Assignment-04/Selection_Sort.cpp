@@ -4,7 +4,7 @@
 * ------------------------------------------------------------------------- */
 
 /**
-* A program merge sort the contents of a vector
+* A program that performs selction sort on the contents of a vector
 */
 
 #include "Selection_Sort.h"
