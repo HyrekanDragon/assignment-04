@@ -37,7 +37,5 @@ int main()
 	print_vector(v2);
 	merge_sort(v2, 0, v2.size());
 
-	system("pause");
-
 	return 0;
 }
